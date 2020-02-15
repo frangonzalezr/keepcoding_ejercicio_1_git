@@ -52,6 +52,8 @@ git reset 5d6f47d
 
 - ¿Qué comando o comandos usaste en el paso 32?
 
+git checkout HEAD@{19}
 
 - ¿Qué comando o comandos usaste en el punto 33?
 
+git checkout HEAD@{1}
